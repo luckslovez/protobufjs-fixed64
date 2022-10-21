@@ -1,0 +1,7 @@
+{
+  "name": "protobufjs-fixed64",
+  "version": "1.0.0",
+  "dependencies": {
+    "protobufjs": "^7.1.2"
+  }
+}
